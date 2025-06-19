@@ -12,7 +12,7 @@
   </servlet>
   <servlet-mapping>
       <servlet-name>link_servlet</servlet-name>
-      <url-pattern>/index</url-pattern>
+      <url-pattern>/link</url-pattern>
   </servlet-mapping>
 	
     <!-- ウェルカムファイルの設定 -->
